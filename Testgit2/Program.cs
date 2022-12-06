@@ -6,7 +6,7 @@ namespace Testgit2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World Master!");
+            Console.WriteLine("Hello World B!");
         }
     }
 }
